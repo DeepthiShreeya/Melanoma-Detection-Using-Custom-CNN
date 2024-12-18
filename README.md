@@ -40,7 +40,6 @@ The images were split into training and testing directories, with data augmentat
 ## Acknowledgements
 - This project was inspired by Upgrad IIIT Bangalore PG program on ML and AI.
 - This project was based on Convolutional Neural Networks Tutorial of this course.
-- This project was inspired by Ayush_Bansal and Dilpreet_Kaur
 
 
 ## Contact
