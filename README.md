@@ -1,1 +1,0 @@
-# Melanoma-Detection-Using-Custom-CNN
